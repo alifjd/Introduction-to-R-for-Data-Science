@@ -1,3 +1,5 @@
+# you can download the data files from this webiste: http://stat-computing.org/dataexpo/2009/the-data.html
+
 # Ali Farjad
 # some data analysis about indianopolise flights
 #imported all the data from 2008 dataset
